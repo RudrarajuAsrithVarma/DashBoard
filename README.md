@@ -1,5 +1,15 @@
 # Devextest
 
+## THIS IS AN INITIAL PROTOTYPE OF PAGE CLASSIFICATION DASHBOARD AND SIGNIFICANT CHANGES HAVE BEEN MADE TO IT THEREAFTER AND THE INITIAL PROTOTYPE CAN BE SEEN IN THE PICTURES BELOW:-
+
+## 1) OVERALL VIEW OF THE PROTOTYPE
+![WhatsApp Image 2024-04-15 at 7 32 46 PM (1)](https://github.com/RudrarajuAsrithVarma/Dashboard/assets/98108770/41e66a28-3ffd-4750-b36e-429b8ebfe287)
+
+## 2)LOADING ICON
+
+![WhatsApp Image 2024-04-15 at 7 32 51 PM](https://github.com/RudrarajuAsrithVarma/Dashboard/assets/98108770/fdabb73f-a475-4530-b2aa-d63a8533feb3)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
 ## Development server
